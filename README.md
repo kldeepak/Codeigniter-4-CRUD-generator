@@ -1,3 +1,5 @@
+# Foriegn Key Relations aren't working in this
+
 # Codeigniter-4-CRUD-generator
 ADEL CCG is an easy open-source intuitive web app to create AdminLTE4 -Bootstrap 5- dashboards with CRUD operations in php.
 The CRUD application is able to manage data from any MySQL database, however complex the structure and volume of data are.
